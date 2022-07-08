@@ -15,7 +15,7 @@ MFA
 What is MFA ?; Multi Factor Authentication
 What are Factors ?; Pieces of evidence - Knowledge (username/password), Possession (card, virtual token, physical token), inherent (biometrics), location
 How does MFA work ?; Secret key is generated based on username / password and combined with resource detail - > QR code is created
-How is the QR code used ?; Scanned by mobile device and credentials added to virtual 
+How is the QR code used ?; Scanned by mobile device and credentials added to virtual MFA application
 
 
 
