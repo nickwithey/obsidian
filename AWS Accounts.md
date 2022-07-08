@@ -1,3 +1,5 @@
+AWS ACCOUNTS
+
 what is an aws account; Logical container of identities and resources
 can the account root user be restricted; No
 what are some example usage of AWS accounts; Dev, Prod, Integration, Marketing, Sales, HR
@@ -7,8 +9,13 @@ What is IAM used for; Creation of additional identities. None of new identities 
 How many accounts is IAM dedicated to ?; One
 What rights do user accounts have when created via IAM; No access until specifically granted
 What rights do external identities have in AWS Accounts; None unless explicity allowed
+
+MFA 
+
 What is MFA ?; Multi Factor Authentication
-What are Factors ?; Pieces of evidence - Knowledge (username/password), Possession (card, virtual token, physical token), inherent ()
+What are Factors ?; Pieces of evidence - Knowledge (username/password), Possession (card, virtual token, physical token), inherent (biometrics), location
+How does MFA work ?; Secret key is generated based on username / password and combined with resource detail - > QR code is created
+How is the QR code used ?; Scanned by mobile device and credentials added to virtual 
 
 
 
