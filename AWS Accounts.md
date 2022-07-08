@@ -6,7 +6,8 @@ What is IAM; Identity Access Management
 What is IAM used for; Creation of additional identities. None of new identities created have access to any resources unless specifically granted. 
 How many accounts is IAM dedicated to ?; One
 What rights do user accounts have when created via IAM; No access until specifically granted
-What rights do external identities have 
+What rights do external identities have in AWS Accounts; None unless explicity allowed
+
 
 
 
