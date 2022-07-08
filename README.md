@@ -1,1 +1,1 @@
-# obsidian
+# obsidian vault repo
