@@ -7,6 +7,8 @@ What is IAM used for; Creation of additional identities. None of new identities 
 How many accounts is IAM dedicated to ?; One
 What rights do user accounts have when created via IAM; No access until specifically granted
 What rights do external identities have in AWS Accounts; None unless explicity allowed
+What is MFA ?; Multi Factor Authentication
+What are Factors ?; Pieces of evidence - Knowledge (username/password), Possession (card, virtual token, physical token), inherent ()
 
 
 
