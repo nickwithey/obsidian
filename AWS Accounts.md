@@ -21,7 +21,11 @@ BUDGET
 
 What is Cost Explorer ? ; granular view of spends on AWS account 
 Billing Prefences ? ; pdf Invoice, Billing Alerts, Free Tier usage
-What are Budgets used for ? ; 
+What are Budgets used for ? ;  Managing costs of AWS account(s)
+What type of Budgets are available ? ; Cost, Usage, Savings Plan, Reservation
+What are the features of a Cost Budget ? ; Monitor spend via alerts
+
+
 
 
 
