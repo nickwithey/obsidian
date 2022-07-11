@@ -39,7 +39,8 @@ What can IAM not do ?; Have any control over external users /accounts (Can use I
 What are the 2 types of IAM User credential ?;Access key and AWS console access
 What are IAM Access Keys used for ?;Accessing AWS via command line / API
 What are IAM long term credentils ?; Credentials that don't change regularly and ones that the user has to change.
-Which type of IAM security principal does not use Access 
+Which type of IAM security principal does not use Access Keys ?; IAM Roles
+
 
 
 
