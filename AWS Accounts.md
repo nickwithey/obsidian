@@ -33,7 +33,13 @@ What are the 3 functions of IAM ?; Identity Provider, Authorisation, Authenticat
 Is IAM resilient ?; Yes - globally resilient - available across all regions
 What are IAM users ?; individually identified user accounts (humans or apps)
 What are IAM groups ?;Collections of related users
-What are IA
+What are IAM Roles ?;Used by AWS services, Grant external access - Grants to uncertain number of entities
+How are IAM policies used ?; Allow / deny access to resources, Must be attached to other identities
+What can IAM not do ?; Have any control over external users /accounts (Can use ID Federation / MFA)
+What are the 2 types of IAM User credential ?;Access key and AWS console access
+What are IAM Access Keys used for ?;Accessing AWS via command line / API
+What are IAM long term credentils ?; Credentials that don't change regularly and ones that the user has to change.
+Which type of IAM security principal does not use Access 
 
 
 
