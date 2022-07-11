@@ -25,6 +25,15 @@ What are Budgets used for ? ;  Managing costs of AWS account(s)
 What type of Budgets are available ? ; Cost, Usage, Savings Plan, Reservation
 What are the features of a Cost Budget ? ; Monitor spend via alerts
 
+IAM - BASICS
+
+What is a critical piece of any user rights granted ?; Least privilege access
+What 3 features does IAM provide ?; Users, Groups and Applications
+What are the 3 functions of IAM ?; Identity Provider, Authorisation, Authentication
+Is IAM resilient ?; Yes - globally resilient - available across all regions
+What are IAM users ?; individually identified user accounts (humans or apps)
+What are IAM groups ?;Collections of related users
+What are IA
 
 
 
